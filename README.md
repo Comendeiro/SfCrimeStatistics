@@ -1,2 +1,4 @@
 # SfCrimeStatistics
-SF Crime statistics
+SF Crime statistics project for nanodegree
+
+The 
